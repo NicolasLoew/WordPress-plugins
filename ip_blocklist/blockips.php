@@ -7,7 +7,7 @@ Description: This plugin uses PHP to block known VPN IP addresses from accessing
 PHP Code from: https://www.hashbangcode.com/article/blocking-multiple-ip-addresses-php
 IP List of VPNs: https://github.com/X4BNet/lists_vpn
  */
-if ( !file_exists('blocked_ips.txt') ) 
+if ( !file_exists('blocklist.txt') ) 
 {
  $deny_ips = file('blocklist.txt');
 }
