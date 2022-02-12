@@ -1,0 +1,119 @@
+.pg-posts-control-list {
+    width: 100%;
+}
+
+.pg-posts-control-list-item-empty {
+
+}
+
+.pg-posts-control-list-item {
+    border-radius: 2px;
+    background-color: rgb(240, 240, 240);
+    padding: 8px;
+    padding-left: 25px;
+    padding-right: 25px;
+    text-align: left;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    position: relative;
+    margin-bottom: 4px;
+}
+
+.pg-posts-control-list-item-remove {
+    text-decoration: none;
+    position: absolute;
+    right: 8px;
+    font-size: 18px;
+    line-height: 1;
+    color: rgba(0,0,0,0.25);
+    opacity: 0;
+    transition: all 0.3s;
+    top: 50%;
+    margin-top: -10px;
+}
+
+.pg-posts-control-list-item-remove:hover {
+    color: rgba(0,0,0,0.5);
+}
+
+.pg-posts-control-list-item-move {
+    position: absolute;
+    left: 2px;
+    height: 16px;
+    top: 50%;
+    opacity: 0;
+    transition: all 0.3s;
+    color: rgba(0,0,0,0.25);
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.pg-posts-control-list-item-move:hover {
+    color: rgba(0,0,0,0.5);
+}
+
+.pg-posts-control-list-item-move.up {
+    margin-top: -18px;
+}
+
+.pg-posts-control-list-item-move.down {
+    margin-top: 2px;
+}
+
+.pg-posts-control-list-item:hover .pg-posts-control-list-item-move {
+    opacity: 1;
+}
+
+.pg-posts-control-list-item:hover .pg-posts-control-list-item-remove {
+    opacity: 1;
+}
+
+.pg-control-close-popup {
+    text-decoration: none;
+    font-size: 22px;
+    transition: all 0.3s;
+    color: rgba(0,0,0,0.25);
+    text-align: right;
+    padding-right: 4px;
+    display: block;
+    line-height: 1;
+    height: 10px;
+    z-index: 1;
+    position: relative;
+}
+
+.pg-control-close-popup:hover {
+    color: rgba(0,0,0,0.5);
+}
+
+.pg-control-popover {
+    padding-top:20px;
+}
+
+.pg-control-color-popover .components-popover__content{
+    padding: 15px 15px 5px 15px !important;
+}
+
+.pg-control-color-popover .pg-control-close-popup {
+    padding-right: 0;
+    margin-left: auto;
+    position: absolute;
+    right: -13px;
+    top: -19px;
+}
+
+.pg-control-svg-edit .components-popover__content {
+    padding: 10px 10px 10px 10px !important;
+}
+
+.pg-control-svg-edit-code textarea {
+    min-width: 300px;
+    min-height: 120px;
+    font-family: Menlo,Consolas,monaco,monospace;
+}
+
+.pg-control-svg-edit-preview svg {
+    max-height: 100px;
+    max-width: 100%;
+}
