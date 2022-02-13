@@ -14,4 +14,4 @@ This has been tested with WordPress 5.9 on Feb 12th, 2022.
 
 Pre-compiled .zip Download of the plugin (Hosted on Koofr.eu / European Cloud Storage Provider)
 
-For Version 6.0.0: https://k00.fr/8lc8mebm | password: 461827
+For Version 6.0.0: https://k00.fr/rjdg42mw | password: 890196
