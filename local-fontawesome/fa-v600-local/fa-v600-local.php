@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Local Fonts GDPR FA
-Description: This Plugin enables you to host Fontawesome v.6.0.0 locally to better comply with GDPR standards. No legal advice.
+Plugin Name: Local Fonts GDPR
+Description: This Plugin enables you to host Fontawesome v6.0.0 locally to better comply with GDPR standards. No legal advice.
 */
 /* Start Adding Functions Below this Line */
  
