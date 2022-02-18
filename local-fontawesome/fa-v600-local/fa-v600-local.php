@@ -6,8 +6,11 @@ Description: This Plugin enables you to host Fontawesome v6.0.0 locally to bette
 /* Start Adding Functions Below this Line */
  
  /* Register and add local Fontawesome Stylesheet v6.0.0 Web
- For reference, read: https://developer.wordpress.org/reference/functions/wp_enqueue_script/ and https://developer.wordpress.org/reference/hooks/wp_enqueue_scripts/
- and https://developer.wordpress.org/reference/functions/wp_register_style/#description
+Useful resources for writing similar plugins yourself: 
+ https://developer.wordpress.org/reference/functions/wp_enqueue_script/
+ https://developer.wordpress.org/reference/hooks/wp_enqueue_scripts/
+ https://developer.wordpress.org/reference/functions/wp_enqueue_style/
+ https://developer.wordpress.org/reference/functions/wp_register_style/#description
  */
 function add_fonts() {
 	wp_register_style('all', plugin_dir_url( __FILE__ ) . 'css/all.css');
