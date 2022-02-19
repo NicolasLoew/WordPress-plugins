@@ -12,6 +12,6 @@ How to use:
 
 This has been tested with WordPress 5.9 on Feb 12th, 2022. 
 
-Pre-compiled .zip Download of the plugin (Hosted on Koofr.eu / European Cloud Storage Provider):
+Pre-compiled .zip Download of the latest version of the plugin (Hosted on Koofr.eu / European Cloud Storage Provider):
 
 https://k00.fr/mndvap7q
