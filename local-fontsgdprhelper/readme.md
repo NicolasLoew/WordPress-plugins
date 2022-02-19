@@ -15,26 +15,32 @@ Option 2:
 2) Upload Plugin to WordPress.
 3) Activate Plugin
 4) Use according to the FontAwesome syntax that applies to your version (e.g. for v 6.0.0: https://fontawesome.com/v6/docs).
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
+
 FYI: This code can be easily adapted! This is why the plugin is called "Local Fonts GDPR Helper".
 It helps you to basically self-host any styles or fonts you want to include on your WordPress site.
 This compiled version of the plugin allows you to self-host the Fontawesome free icons on your WordPress website.
 
 The code is very short and should be easy enough to understand and adapt. I have added comments on Github to help you with that.
 If you have any questions, open a Github issue and I'll see what I can do to help you.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 Credits:
 The plugin PHP code has been written by Nicolas Löw, a Web Developer from Germany.
 Website: https://nicolas-loew.de/
 GitHub: https://github.com/NicolasLoew/
 Feel free to fork and adapt the plugin PHP Code as you like.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 LICENSING: Please respect the licensing from FontAwesome that is attached in the respective folders.
 In this case the free Fontawesome fonts that are included in this plugin are subject to the following license: https://fontawesome.com/license/free
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
-PLUGIN COMPATIVILITY:
+PLUGIN COMPATIBILITY:
 This plugin has been tested with WordPress version..
 5.9 [x]
+
 ---------------------------------------------------------------
 DOWNLOADS:
 Pre-compiled .zip Downloads of the plugin are available for download in a public folder on Koofr (European Cloud Storage Provider):
