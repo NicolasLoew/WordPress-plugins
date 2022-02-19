@@ -6,14 +6,21 @@ I will try to keep adding other (major) versions of the free Fontawesome icons a
 HOW TO USE:
 USE AT YOUR OWN RISK!
 Option 1:
-1.) Download ZIP file of the plugin
+
+1.) Download ZIP file of the plugin.
+
 2.) Upload the Plugin to Wordpress, install & activate it.
+
 3.) You should now be able to use Fontawesome free icons using the Syntax on your website.
 
 Option 2:
+
 1) Clone the repository and .zip the folder corresponding to the version of FontAwesome Fonts you want (e.g. v600-local stands for fontawesome version 6.0.0.).
+
 2) Upload Plugin to WordPress.
-3) Activate Plugin
+
+3) Activate Plugin.
+
 4) Use according to the FontAwesome syntax that applies to your version (e.g. for v 6.0.0: https://fontawesome.com/v6/docs).
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
