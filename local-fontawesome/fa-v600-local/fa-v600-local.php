@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Local Fonts GDPR
+Plugin Name: Local Fonts GDPR Helper
 Description: This Plugin enables you to host Fontawesome v6.0.0 locally to better comply with GDPR standards. No legal advice.
 */
 /* Start Adding Functions Below this Line */
