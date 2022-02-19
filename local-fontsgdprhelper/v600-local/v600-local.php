@@ -2,18 +2,21 @@
 /*
 Plugin Name: Local Fonts GDPR Helper
 Description: This Plugin enables you to host Fontawesome v6.0.0 locally to better comply with GDPR standards. No legal advice.
-The code is documented and can be easily adapted to allow you to self-host any stylesor fonts you want.
+Author: Nicolas Loew
+*/
+/* Start Adding Functions Below this Line */
+ 
+ /* Add local Fontawesome Stylesheet v6.0.0 Web */
 
-AUTHOR:
-Name: Nicolas Löw, Web Developer from Germany
+/* The code is documented and can be easily adapted to allow you to self-host any stylesor fonts you want.
+Credits:
+Name: Nicolas Loew, Web Developer from Germany
 Website: www.nicolas-loew.de
 GitHub Repo: https://github.com/NicolasLoew/WordPress-plugins/tree/main
 
 LICENSE: The plugin code can be forked and adapted as you like. 
-The resources from Fontawesome are subject to the Fontawesome free license: https://fontawesome.com/license/free
+The resources from Fontawesome are subject to the Fontawesome free license: https://fontawesome.com/license/free */
 
-/* Start Adding Functions Below this Line */
- 
  /* Register and add local Fontawesome Stylesheet v6.0.0 Web
 
 Useful resources for writing similar plugins yourself: 
@@ -25,12 +28,14 @@ Useful resources for writing similar plugins yourself:
  To self-host any other fonts or styles just adjust the path to your stylesheet(s) accordingly.
  Please report any issues via Github. If you have questions, feel free to open an issue and I will do my best to help.
  */
+
 function add_fonts() {
 	wp_register_style('all', plugin_dir_url( __FILE__ ) . 'css/all.css');
 	wp_enqueue_style('all');
 
 }
 add_action('wp_enqueue_scripts', 'add_fonts',1);
+
 
 
 /* Stop Adding Functions Below this Line */
