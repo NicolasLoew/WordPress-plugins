@@ -2,13 +2,14 @@
 /*
 Plugin Name: Local Fonts GDPR Helper
 Description: This Plugin enables you to host Fontawesome v6.0.0 locally to better comply with GDPR standards. No legal advice.
+The code is documented and can be easily adapted to allow you to self-host any stylesor fonts you want.
 Author: Nicolas Loew
 */
 /* Start Adding Functions Below this Line */
  
  /* Add local Fontawesome Stylesheet v6.0.0 Web */
 
-/* The code is documented and can be easily adapted to allow you to self-host any stylesor fonts you want.
+/* 
 Credits:
 Name: Nicolas Loew, Web Developer from Germany
 Website: www.nicolas-loew.de
