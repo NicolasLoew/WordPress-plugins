@@ -23,7 +23,7 @@ Useful resources for writing similar plugins yourself:
  https://developer.wordpress.org/reference/functions/wp_register_style/#description
 
  To self-host any other fonts or styles just adjust the path to your stylesheet(s) accordingly.
- Please report any issues via Github. If you have questions, feel free to open an issue and I will do my best to help :)
+ Please report any issues via Github. If you have questions, feel free to open an issue and I will do my best to help.
  */
 function add_fonts() {
 	wp_register_style('all', plugin_dir_url( __FILE__ ) . 'css/all.css');
