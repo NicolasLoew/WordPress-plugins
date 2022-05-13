@@ -20,7 +20,7 @@ This compiled version of the plugin allows you to self-host the Fontawesome free
 
 *Option 1:*
 
-1) [Download](https://k00.fr/mndvap7q) the "latest.zip" file of the plugin. 
+1) [Download](https://k00.fr/oeuh60hq) (password: 755758) the "latest.zip" file of the plugin. 
 2) Upload the Plugin to Wordpress, install & activate it.
 3) You should now be able to use Fontawesome free icons using the Syntax on your website.
 
@@ -65,5 +65,5 @@ This plugin has been tested with WordPress version..
 
 **DOWNLOADS:**
 
-Pre-compiled .zip Downloads of the plugin are available for download in a public folder on Koofr (European Cloud Storage Provider): [Click](https://k00.fr/mndvap7q)
+Pre-compiled .zip Downloads of the plugin are available for download in a public folder on Koofr (European Cloud Storage Provider): [Click](https://k00.fr/oeuh60hq) (password: 755758).
 
