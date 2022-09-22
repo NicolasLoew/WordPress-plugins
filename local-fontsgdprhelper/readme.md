@@ -18,20 +18,10 @@ This compiled version of the plugin allows you to self-host the Fontawesome free
 
 **HOW TO USE:**
 
-*Option 1:*
-
-1) [Download](https://k00.fr/oeuh60hq) (password: 755758) the "latest.zip" file of the plugin. 
-2) Upload the Plugin to Wordpress, install & activate it.
-3) You should now be able to use Fontawesome free icons using the Syntax on your website.
-
-  
-
-*Option 2:*
-
-1) Clone the repository and .zip the folder corresponding to the version of FontAwesome Fonts you want (e.g. v600-local stands for fontawesome version 6.0.0.).
+1) Clone the repository and .zip the folder corresponding to the version of FontAwesome Fonts you want (e.g. zip "v600-local" folder for fontawesome version 6, "v500-local" folder for fontawesome version 5...).
 2) Upload Plugin to WordPress.
 3) Activate Plugin.
-4) Use according to the FontAwesome syntax that applies to your version (e.g. for v 6.0.0: https://fontawesome.com/v6/docs).
+4) Use according to the FontAwesome syntax that applies to your version (if unsure, check https://fontawesome.com/versions ).
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -63,7 +53,5 @@ This plugin has been tested with WordPress version..
 
 ---------------------------------------------------------------
 
-**DOWNLOADS:**
 
-Pre-compiled .zip Downloads of the plugin are available for download in a public folder on Koofr (European Cloud Storage Provider): [Click](https://k00.fr/oeuh60hq) (password: 755758).
 
