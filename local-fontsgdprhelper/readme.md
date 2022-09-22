@@ -18,7 +18,7 @@ This compiled version of the plugin allows you to self-host the Fontawesome free
 
 **HOW TO USE:**
 
-1) Clone the repository and .zip the folder corresponding to the version of FontAwesome Fonts you want (e.g. zip "v600-local" folder for fontawesome version 6, "v500-local" folder for fontawesome version 5...).
+1) Clone/Download the repository and .zip the folder corresponding to the version of FontAwesome Fonts you want (e.g. zip "v600-local" folder for fontawesome version 6, "v500-local" folder for fontawesome version 5...).
 2) Upload Plugin to WordPress.
 3) Activate Plugin.
 4) Use according to the FontAwesome syntax that applies to your version (if unsure, check https://fontawesome.com/versions ).
